@@ -2,7 +2,7 @@
 
 **AI applications · Desktop tools · Experiments**
 
-I like building useful software and figuring out how things work — from local search tools to AI video pipelines and old Android games.
+I try to make stuff and keep learning about new stuff
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,rust,cpp,pytorch,tauri,sqlite&amp;theme=dark" />
@@ -25,7 +25,4 @@ I like building useful software and figuring out how things work — from local 
   </picture>
 </a>
 
-<sub>Language stats reflect public repository code, not proficiency. Cards cover this account; projects on Aniyow are separate.</sub>
-
-
-
+<sub>Language stats reflect public repository code, not proficiency. Cards cover this account;</sub>
